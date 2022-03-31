@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunodhayamsam" alt="arunodhayamsam" /></a> </p>
 
 - 🔭 I’m currently working on Infrastructure-as-Code and ConfigManagement for [faasd](https://github.com/openfaas/faasd), [lufi](https://github.com/ldidry/lufi), [lutim](https://github.com/ldidry/lutim), and [lstu](https://github.com/ldidry/lstu)
-
+- 👨‍💻 I work on a few other projects over at my alt [framagit](https://framagit.org/users/arunodhayamsam/projects)
 - 🌱 I’m currently learning **Ansible, Terraform, k8s**
 
 - 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
