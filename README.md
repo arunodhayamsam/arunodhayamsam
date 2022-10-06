@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy NodeJS application on AWS ECS &lpar;EC2 Launch Type&rpar;](https://dev.to/ittrident/deploy-nodejs-application-on-aws-ecs-ec2-3dlb)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
