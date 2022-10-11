@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [EC2 instance as self-hosted GItHub runners](https://dev.to/ittrident/ec2-instance-as-self-hosted-github-runners-5cg8)
 - [Deploy NodeJS application on AWS ECS &lpar;EC2 Launch Type&rpar;](https://dev.to/ittrident/deploy-nodejs-application-on-aws-ecs-ec2-3dlb)
 <!-- BLOG-POST-LIST:END -->
 
