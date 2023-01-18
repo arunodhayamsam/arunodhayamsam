@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Infrastructure-as-Code and ConfigManagement for [faasd](https://github.com/openfaas/faasd), [lufi](https://github.com/ldidry/lufi), [lutim](https://github.com/ldidry/lutim), and [lstu](https://github.com/ldidry/lstu)
 - 👨‍💻 I work on a few other projects over at my alt [framagit](https://framagit.org/users/arunodhayamsam/projects)
-- 🌱 I’m currently learning **Ansible, Terraform, k8s**
+- 🌱 I’m currently learning **GCP, GO**
 
 - 📝 I regularly write articles on [https://dev.to/ittrident](https://dev.to/ittrident)
 
-- 💬 Ask me about **AWS (EC2, ECS Fargate, IAM, RDS, Code{commit, build, deploy, pipeline}, Cloudformation), Docker, NodeJS**
+- 💬 Ask me about **AWS (EC2, ECS Fargate, EKS, IAM, RDS, Code{commit, build, deploy, pipeline}, Cloudformation), Docker, NodeJS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
