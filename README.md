@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunodhayamsam&label=Profile%20views&color=000000&style=flat-square" alt="arunodhayamsam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunodhayamsam" alt="arunodhayamsam" /></a> </p>
 
 - 🔭 I’m currently working on something cool 😉
 - <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> I have given some contribution on Infrastructure-as-Code and ConfigManagement for [faasd](https://github.com/openfaas/faasd), [lufi](https://github.com/ldidry/lufi), [lutim](https://github.com/ldidry/lutim), and [lstu](https://github.com/ldidry/lstu)
