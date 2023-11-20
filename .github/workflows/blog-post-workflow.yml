@@ -1,5 +1,6 @@
 name: Latest blog post workflow
 on:
+  push:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
@@ -15,3 +16,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/arunodhayamsam"
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: ${{ secrets.CRED_USERNAME }} 

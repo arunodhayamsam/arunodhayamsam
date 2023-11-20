@@ -16,6 +16,10 @@
 - [Deploy NodeJS application on AWS ECS &lpar;EC2 Launch Type&rpar;](https://dev.to/ittrident/deploy-nodejs-application-on-aws-ecs-ec2-3dlb)
 <!-- BLOG-POST-LIST:END -->
 
+<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arunodhayamsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arunodhayamsam" height="30" width="40" /></a>
