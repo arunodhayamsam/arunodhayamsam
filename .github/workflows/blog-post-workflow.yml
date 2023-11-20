@@ -21,4 +21,4 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: ${{ secrets.CRED_USERNAME }} 
-          BADGE_SIZE: 50
+          
