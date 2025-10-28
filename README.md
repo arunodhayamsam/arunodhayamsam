@@ -12,8 +12,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [EC2 instance as self-hosted GItHub runners](https://dev.to/ittrident/ec2-instance-as-self-hosted-github-runners-5cg8)
-- [Deploy NodeJS application on AWS ECS &lpar;EC2 Launch Type&rpar;](https://dev.to/ittrident/deploy-nodejs-application-on-aws-ecs-ec2-3dlb)
+- [EC2 instance as self-hosted GItHub runners](https://forem.com/ittrident/ec2-instance-as-self-hosted-github-runners-5cg8)
+- [Deploy NodeJS application on AWS ECS &lpar;EC2 Launch Type&rpar;](https://forem.com/ittrident/deploy-nodejs-application-on-aws-ecs-ec2-3dlb)
 <!-- BLOG-POST-LIST:END -->
 
 <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
